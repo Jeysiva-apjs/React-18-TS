@@ -1,0 +1,13 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.textBox {
+  margin-top: 50px;
+  width: 500px;
+}
